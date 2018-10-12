@@ -7,3 +7,6 @@
 
     I am an 11th grade student at HSTAT. I am in the SEP program where I learn to 
     write code and create projects. 
+    
+## My HSTAT Schedule
+
